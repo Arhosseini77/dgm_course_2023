@@ -1,2 +1,4 @@
-# dgm_fall_200
-Deep Generative Models, University of Tehran, Dr.Tavassolipour
+# DEEP GENERATIVE MODELS
+University of Tehran
+Dr.Tavassolipour
+Fall 2023
