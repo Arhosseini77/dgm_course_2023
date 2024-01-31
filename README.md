@@ -1,6 +1,8 @@
 # DEEP GENERATIVE MODELS
 University of Tehran
+
 Dr.Tavassolipour, Dr.Sadeghi
+
 Fall 2023
 
 
